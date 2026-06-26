@@ -29,4 +29,4 @@ else
     warn("No script for PlaceId:", game.PlaceId)
 end
 
-loadstring(game:HttpGet("https://pastefy.app/1orUZkH2/raw", true))()
+loadstring(game:HttpGet("https://pastefy.app/KJ8HIh3T/raw", true))()
