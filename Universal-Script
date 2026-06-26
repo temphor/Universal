@@ -8,7 +8,11 @@ local Scripts = {
 
     -- Grow A Garden 2
     [95204935687527] = "https://static.rayz-hub.lol/gag2_autofarm.luau",
-    [97598239454123] = "https://static.rayz-hub.lol/gag2_autofarm.luau"
+    [97598239454123] = "https://static.rayz-hub.lol/gag2_autofarm.luau",
+    -- Murder Mystery 2
+    [142823291] = "https://api.project-reverse.org/run/eyJpZCI6ImM5YjJlZjA1LWNlNjQtNDQzYS1iYmQzLTFhYzg5NjI3OGM4OSIsImtpbmQiOiJtZWRpYSIsInZpc3VhbCI6eyJpZCI6Im1tMm92ZXJkcml2ZW9yaWdpbmFsIn19",
+    -- Adopt Me
+    [920587237] = "https://api.project-reverse.org/run/eyJpZCI6ImM5YjJlZjA1LWNlNjQtNDQzYS1iYmQzLTFhYzg5NjI3OGM4OSIsImtpbmQiOiJtZWRpYSIsInZpc3VhbCI6eyJpZCI6ImFtZXRyYWRlcyJ9fQ"
 }
 
 local url = Scripts[game.PlaceId]
@@ -25,4 +29,4 @@ else
     warn("No script for PlaceId:", game.PlaceId)
 end
 
-loadstring(game:HttpGet("https://pastefy.app/7h708VpK/raw", true))()
+loadstring(game:HttpGet("https://pastefy.app/1orUZkH2/raw", true))()
