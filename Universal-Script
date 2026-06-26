@@ -1,3 +1,9 @@
+if getgenv().MyScriptLoaded then
+    warn("Script is already loaded.")
+    return
+end
+getgenv().MyScriptLoaded = true
+
 local Scripts = {
     -- Pet Simulator 99
     [8737899170] = "https://static.rayz-hub.lol/ps99_autofarm.luau",
